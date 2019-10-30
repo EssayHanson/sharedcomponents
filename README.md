@@ -1,0 +1,2 @@
+# sharedcomponents
+nextjs tutorial
